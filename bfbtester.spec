@@ -23,7 +23,7 @@ BFBTester s³u¿y do szybkiego sprawdzania bezpieczeñstwa programów
 binarnych. BFBTester sprawdza wystêpowanie przepe³nienia bufora dla
 jednego i wielu parametrów z linii poleceñ oraz dla zmiennych
 ¶rodowiskowych. Mo¿e tak¿e kontrolowaæ tworzenie plików tymczasowych i
-ostrzegaæ u¿ytkownika o programach u¿ywajacych niebezpiecznych nazw
+ostrzegaæ u¿ytkownika o programach u¿ywaj±cych niebezpiecznych nazw
 plików tymczasowych.
 
 %prep
