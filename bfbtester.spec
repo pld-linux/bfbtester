@@ -6,6 +6,7 @@ Release:	1
 License:	GPL v2
 Group:		Development/Debuggers
 Source0:	http://dl.sourceforge.net/bfbtester/%{name}-%{version}.tar.gz
+# Source0-md5:	88b50a026c817e9cc391dddb71216a3e
 URL:		http://bfbtester.sourceforge.net/
 BuildRequires:	autoconf
 BuildRequires:	automake
