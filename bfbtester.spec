@@ -5,7 +5,7 @@ Version:	2.0.1
 Release:	1
 License:	GPL v2
 Group:		Development/Debuggers
-Source0:	http://telia.dl.sourceforge.net/sourceforge/bfbtester/%{name}-%{version}.tar.gz
+Source0:	http://prdownloads.sourceforge.net/sourceforge/bfbtester/%{name}-%{version}.tar.gz
 URL:		http://bfbtester.sourceforge.net/
 BuildRequires:	autoconf
 BuildRequires:	automake
