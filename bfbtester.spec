@@ -1,5 +1,5 @@
 Summary:	Brute Force Binary Tester
-Summary(pl.UTF-8):   "Brutalny" tester plików binarnych
+Summary(pl.UTF-8):	"Brutalny" tester plików binarnych
 Name:		bfbtester
 Version:	2.0.1
 Release:	1
