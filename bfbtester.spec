@@ -1,5 +1,5 @@
 Summary:	Brute Force Binary Tester
-Summary(pl):	"Brutalny" tester plików binarnych
+Summary(pl.UTF-8):   "Brutalny" tester plikÃ³w binarnych
 Name:		bfbtester
 Version:	2.0.1
 Release:	1
@@ -19,13 +19,13 @@ argument command line overflows and environment variable overflows. It
 can also watch for tempfile creation activity to alert the user of any
 programs using unsafe tempfile names.
 
-%description -l pl
-BFBTester s³u¿y do szybkiego sprawdzania bezpieczeñstwa programów
-binarnych. BFBTester sprawdza wystêpowanie przepe³nienia bufora dla
-jednego i wielu parametrów z linii poleceñ oraz dla zmiennych
-¶rodowiskowych. Mo¿e tak¿e kontrolowaæ tworzenie plików tymczasowych i
-ostrzegaæ u¿ytkownika o programach u¿ywaj±cych niebezpiecznych nazw
-plików tymczasowych.
+%description -l pl.UTF-8
+BFBTester sÅ‚uÅ¼y do szybkiego sprawdzania bezpieczeÅ„stwa programÃ³w
+binarnych. BFBTester sprawdza wystÄ™powanie przepeÅ‚nienia bufora dla
+jednego i wielu parametrÃ³w z linii poleceÅ„ oraz dla zmiennych
+Å›rodowiskowych. MoÅ¼e takÅ¼e kontrolowaÄ‡ tworzenie plikÃ³w tymczasowych i
+ostrzegaÄ‡ uÅ¼ytkownika o programach uÅ¼ywajÄ…cych niebezpiecznych nazw
+plikÃ³w tymczasowych.
 
 %prep
 %setup -q
